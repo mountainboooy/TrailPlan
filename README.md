@@ -66,9 +66,69 @@ https://groups.yahoo.com/neo/groups/johnmuirtrail/conversations/topics/5652
 
 　  
 　  
-# 補給
-# トレイルヘッドまでのアクセス
-# 
+# 補給ポイント
+### ①Tuolumne Medow Post Office
+#### 住所
+c/o General Delivery  Tuolumne Meadows Yosemite National Park, CA  
+#### 梱包方法
+・自分の名前を記載  
+・無料  
+・USPS限定
+　  
+　  
+### ②[Mammoth Lake Post Office](http://www.uspspostoffices.com/ca/mammoth-lakes/mammoth-lakes)
+#### 住所
+3330 Main St, Mammoth Lakes, CA 93546
+
+#### 梱包方法
+・郵便局留にするために以下のように記載  
+To: Takeru Yoshihara  
+GENERAL DELIVERY  
+3330 Main St, Mammoth Lakes, CA 93546 USA
+
+#### アクセス
+バスでReds Medow General Storeを出発し、キャンプ場前のバス停を経由してMain Lodgeまで(往復＄７)このMain Lodge からThe Villageというところまで無料シャトルで行くと街に出る。The Villageはいろいろなお店やレストランが集まっていて、そこからMain St. を東に10分〜15分程歩くと郵便局。
+※シャワー浴びたいときはMammoth Mountain Innへ。$5
+　  
+　  
+### ③[Muir Trail Ranch](http://www.muirtrailranch.com/resupply.html)
+#### 住所
+Muir Trail Ranch Resupply  
+PO Box 176  
+Lakeshore, CA 93634  
+
+#### 梱包方法
+・ピックアップ予定日を外側に記入  
+・5ガロン以下のバケツか段ボールを使用  
+・バケツを使用の場合、宛先ラベルは必ず天面に貼る  
+・段ボールの場合、アドレスは1面にだけ貼る。いくつか貼ってると差し戻される  
+・ピックアップ予定日と受け取り人名を記しておく  
+・海外からの送付の場合は現地での支払いが可能なので、その旨を記しておく  
+・補給予定日の3週間前には荷物を送っておく  
+・費用は$65  
+
+### ④[Pine Creek Pack Station / Sequoia Kings Pack Trains](http://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCEQFjAA&url=http%3A%2F%2Fxa.yimg.com%2Fkq%2Fgroups%2F5334735%2F1254039484%2Fname%2FSequoia%2BKings%2BPack%2BTrains%2BPackaging%2BInformation.pdf&ei=YC7qU7uGJJXn8AX3moCQAQ&usg=AFQjCNEca4mLRA45Aq9EdgfDUL2aEiDBmQ&sig2=iHL-iCWG2GLestznkgclJg&bvm=bv.72676100,d.dGc)
+キアサージパスのトレイルを外れて12kmほど下山したオニオンバレーにあるステーション。ステーションにはキャンプ場やシャワーも完備してある。
+
+#### 梱包方法
+・頑丈な段ボールもしくはプラスティックの箱を使用すること。  
+・最大サイズは20×12×12(多分インチ換算）  
+・最大重量は50ポンド。  
+・数に上限は無し。 
+・それぞれの荷物に1/3, 2/3 3/3のように番号を振っておく。  
+・箱のそれぞれの面に以下の情報を貼っておく  
+-パックステーションの名前  
+-パックステーションンの住所  
+-団体名  
+-ピックアップ日  
+-目的地  
+・箱の外に「Message to Packer」と書かれた封筒を貼っておく。  
+・封筒の中には以下の情報を入れておく。支払いのための情報になる。  
+-自分の名前  
+-電話番号  
+-旅程のコピー  
+・荷物預かりの費用は$125
+
 
 
 
