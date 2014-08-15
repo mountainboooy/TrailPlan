@@ -16,21 +16,21 @@ TrailPlan
 |9/23|予備日|
 |9/24|予備日|
 |9/25|12:45 ロサンゼルスLAX → 機内泊|
-|9/26|→ 16:25 東京NRT (ANA5便) <br> 20:30 HND → 21:45 大阪KIX （ANA147便|
+|9/26|→ 16:25 東京NRT (ANA5便) <br> 20:30 HND → 21:45 大阪KIX （ANA147便)|
 
 　  
 　  
 # 連絡先
-#### 持参しているiPhone
+#### ■持参しているiPhone
 日本で使用しているiPhoneを持って行って国際ローミングで使用。  
 TEL 090-4474-0390  
 料金 ¥140 ~ ¥160/分
  
 
-#### サンフランシスコ宿泊先
+#### ■サンフランシスコ宿泊先
 ・宿泊先未定
 
-#### トレイル上の緊急連絡先
+#### ■トレイル上の緊急連絡先
 ##### ① Yosemite National Park  
 ジョン・ミューア・トレイルの前半1/4を管轄とするのがYosemite National Park。  
 TEL : +1-209-379-1992
@@ -41,14 +41,17 @@ TEL : +1-559-488-3111(24時間対応)
 トレイルの後半1/2を管轄するのがSequoia and Kings Canyon National Parks。  
 TEL : +1-1-559-565-3341(24時間対応)
 
-#### 参考リンク
+#### ■参考リンク
 https://groups.yahoo.com/neo/groups/johnmuirtrail/conversations/topics/5652
 
 
 　  
 　  
 # 装備
+##### [Google Docsにて管理](https://docs.google.com/spreadsheets/d/1l-u_W1qRfV-6c7E0FJOjkHLvm2g50_WATEmW16Noy3M/edit#gid=0)
 
+　  
+　  
 # 食料
 
 # 補給
