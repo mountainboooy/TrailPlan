@@ -18,6 +18,9 @@ TrailPlan
 |9/25|12:45 ロサンゼルスLAX → 機内泊|
 |9/26|→ 16:25 東京NRT (ANA5便) <br> 20:30 HND → 21:45 大阪KIX （ANA147便)|
 
+行程詳細（画像クリックで拡大）
+<a href='images/nittei.png'><img src='images/nittei.png' width='700'></a>
+
 　  
 　  
 # 連絡先
@@ -47,13 +50,22 @@ https://groups.yahoo.com/neo/groups/johnmuirtrail/conversations/topics/5652
 
 　  
 　  
-# 装備
+# 装備一覧
 ##### [Google Docsにて管理](https://docs.google.com/spreadsheets/d/1l-u_W1qRfV-6c7E0FJOjkHLvm2g50_WATEmW16Noy3M/edit#gid=0)
 
 　  
 　  
-# 食料
+# 食料計画
+|時間|内容|
+|---|---|
+|朝食(洋)|ミューズリー 50g(160kcal) <br> スープ 10g (30kcal) <br> カロリーメイト×2本 40g(200kcal)|
+|朝食(和)|お粥 16g(61kcal) <br> 汁物 15g(75kcal) <br> カロリーメイト×2本 40g(200kcal)|
+|行動食|カロリーメイト×2本40g(200kcal) <br> ミックスナッツ × 50g(300kcal) <br> エナジーバー60g (200kcal) <br> 柿ピー1袋|35g(165kcal) <br> カントリーマアム3枚(30g)150kcal|
+|夕食(洋)|パスタ 100g(280kcal) <br> おかず 洋風の何か 50g (100kcal) <br> 汁物・スープ 10g(30kcal)|
+|夕食(和)|ごはんもの 100g(387kcal) <br> おかず・丼 25g(100kcal) <br> 汁物・スープ 10g(30kcal)|
 
+　  
+　  
 # 補給
 # トレイルヘッドまでのアクセス
 # 
